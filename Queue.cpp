@@ -11,7 +11,7 @@
  *                		
  *
  * Creation date: 06/24/2016
- * Author: Mehrshad Matin & Baoer Li
+ * Author: Mehrshad Matin 
  */
 #include "Queue.h"
 
